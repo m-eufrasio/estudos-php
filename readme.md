@@ -1,0 +1,1 @@
+Todos os códigos são referente a um pequeno curso gratuito no YT sobre introdução ao PHP.
